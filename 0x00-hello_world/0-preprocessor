@@ -1,0 +1,2 @@
+#!/bin/bush
+gcc -E $CFILE -o c
